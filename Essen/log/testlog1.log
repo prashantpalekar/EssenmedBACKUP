@@ -1,0 +1,181 @@
+2022-06-30 13:17:11,102 [main] INFO eCares - Login Successful
+2022-06-30 13:17:16,307 [main] INFO eCares - Home Page Successfully Validated!!! Home Page Test Case Passed
+2022-06-30 13:17:19,064 [main] INFO eCares - My WorkList Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:17:32,327 [main] INFO eCares - Medical Enrollment Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:17:52,208 [main] INFO eCares - Patient List - DCE All Patients Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:18:07,869 [main] INFO eCares - Patient List - Health Home All Patients page Successfully Validated
+2022-06-30 13:18:24,668 [main] INFO eCares - Patient List - RHIO Consent page successfully validated
+2022-06-30 13:18:40,394 [main] INFO eCares - CCM - All Patients page successfully validated
+2022-06-30 13:22:34,649 [main] INFO eCares - Login Successful
+2022-06-30 13:22:40,473 [main] INFO eCares - Home Page Successfully Validated!!! Home Page Test Case Passed
+2022-06-30 13:22:43,673 [main] INFO eCares - My WorkList Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:22:45,261 [main] INFO eCares - Medical Enrollment Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:23:09,944 [main] INFO eCares - Patient List - DCE All Patients Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:23:24,862 [main] INFO eCares - Patient List - Health Home All Patients page Successfully Validated
+2022-06-30 13:23:41,552 [main] INFO eCares - Login Successful
+2022-06-30 13:23:46,930 [main] INFO eCares - Home Page Successfully Validated!!! Home Page Test Case Passed
+2022-06-30 13:23:49,329 [main] INFO eCares - My WorkList Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:23:50,570 [main] INFO eCares - Medical Enrollment Page Successfully Validated!!! Login Test Passed
+2022-06-30 13:24:16,821 [main] INFO eCares - CCM - All Patients page successfully validated
+2022-07-04 12:10:13,579 [main] INFO eCares - Login Successful
+2022-07-04 12:10:18,950 [main] INFO eCares - Home Page Successfully Validated!!! Home Page Test Case Passed
+2022-07-04 12:14:24,808 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 12:14:32,358 [main] INFO eCares - Wow Report has been verified
+2022-07-04 13:07:21,232 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 13:07:31,100 [main] INFO eCares - Wow Report has been verified
+2022-07-04 13:07:32,262 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-07-04 15:36:05,828 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-07-04 15:36:15,132 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-07-04 15:36:23,268 [main] INFO eCares - CCM Dashboard page successfully validated
+2022-07-04 16:42:18,121 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 16:42:24,548 [main] INFO eCares - Wow Report has been verified
+2022-07-04 16:42:25,883 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-07-04 16:47:49,583 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 16:47:59,521 [main] INFO eCares - Wow Report has been verified
+2022-07-04 16:48:00,818 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-07-04 16:57:24,184 [main] INFO eCares - Failed! Kiosk Check ins report validation has been Failed
+2022-07-04 17:03:16,955 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 17:10:41,380 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 17:12:39,798 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 17:30:16,015 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 17:39:09,922 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 17:39:26,384 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-04 17:42:28,971 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 17:42:45,441 [main] INFO eCares - Failed! PatientList Exceptions validation has been failed
+2022-07-04 17:53:46,677 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 17:54:03,343 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-04 18:20:57,492 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 18:21:11,824 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-04 18:24:42,628 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 18:24:57,658 [main] INFO eCares - Failed! PatientList Exceptions validation has been failed
+2022-07-04 18:28:30,826 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 18:28:40,731 [main] INFO eCares - Wow Report has been verified
+2022-07-04 18:28:42,257 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-07-04 18:28:56,402 [main] INFO eCares - Failed! PatientList Exceptions validation has been failed
+2022-07-04 18:33:48,839 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 18:34:03,264 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-04 18:39:33,817 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 18:39:47,866 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-04 18:40:06,425 [main] INFO eCares - Failed! Duplicate Chart report validation has been failed
+2022-07-04 18:42:37,841 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-04 18:42:52,428 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-04 18:43:10,788 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-07-07 12:38:57,566 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-07 12:39:13,413 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-07 12:39:38,844 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-07-13 09:31:14,904 [main] INFO eCares - Username is entered
+2022-07-13 09:31:14,982 [main] INFO eCares - Password is entered
+2022-07-13 09:31:23,025 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-07-13 09:31:23,025 [main] INFO eCares - Login Successful
+2022-07-13 09:31:23,025 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-07-13 09:31:23,704 [main] INFO eCares - Login Test Passed
+2022-07-13 09:31:40,800 [main] INFO eCares - Login Test Failed
+2022-07-13 09:31:52,959 [main] INFO eCares - Login Test Failed
+2022-07-13 09:32:05,106 [main] INFO eCares - Login Test Failed
+2022-07-13 09:32:19,420 [main] INFO eCares - Login Test Passed
+2022-07-13 09:32:42,961 [main] INFO eCares - Login Successful
+2022-07-13 09:32:50,896 [main] INFO eCares - Providing Users Details
+2022-07-13 09:32:55,834 [main] INFO eCares - Test Case Passed
+2022-07-13 09:33:15,279 [main] INFO eCares - login successfull
+2022-07-13 09:33:40,591 [main] INFO eCares - Login Successful
+2022-07-13 09:33:45,843 [main] INFO eCares - Home Page Successfully Validated!!! Home Page Test Case Passed
+2022-07-13 09:35:11,542 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-07-13 09:35:27,314 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-07-13 09:35:32,962 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-07-13 09:35:43,016 [main] INFO eCares - CCM Dashboard page successfully validated
+2022-07-13 09:36:12,737 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-13 09:36:28,431 [main] INFO eCares - Failed! PatientList Exceptions validation has been failed
+2022-07-22 11:24:09,126 [main] INFO eCares - Username is entered
+2022-07-22 11:24:09,200 [main] INFO eCares - Password is entered
+2022-07-22 11:24:40,825 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-07-22 11:24:40,825 [main] INFO eCares - Login Successful
+2022-07-22 11:24:40,826 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-07-22 11:24:41,451 [main] INFO eCares - Login Test Passed
+2022-07-22 11:25:02,640 [main] INFO eCares - Login Test Failed
+2022-07-22 11:25:14,784 [main] INFO eCares - Login Test Failed
+2022-07-22 11:25:26,880 [main] INFO eCares - Login Test Failed
+2022-07-22 11:25:58,193 [main] INFO eCares - Login Test Passed
+2022-07-22 11:26:34,118 [main] INFO eCares - Login Successful
+2022-07-22 11:26:44,353 [main] INFO eCares - Providing Users Details
+2022-07-22 11:26:48,989 [main] INFO eCares - Test Case Passed
+2022-07-22 11:27:26,335 [main] INFO eCares - login successfull
+2022-07-22 11:28:07,594 [main] INFO eCares - Login Successful
+2022-07-22 11:28:12,872 [main] INFO eCares - Home Page Successfully Validated!!! Home Page Test Case Passed
+2022-07-22 11:29:55,974 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-07-22 11:30:13,560 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-07-22 11:30:18,421 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-07-22 11:30:28,726 [main] INFO eCares - CCM Dashboard page successfully validated
+2022-07-22 11:31:14,412 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-07-22 11:31:29,768 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-07-22 11:31:50,567 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-07-25 16:09:26,773 [main] INFO eCares - Username is entered
+2022-07-25 16:09:26,893 [main] INFO eCares - Password is entered
+2022-07-25 16:09:35,882 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-07-25 16:09:35,882 [main] INFO eCares - Login Successful
+2022-07-25 16:09:35,882 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-07-25 16:09:36,804 [main] INFO eCares - Login Test Passed
+2022-07-25 16:09:55,298 [main] INFO eCares - Login Test Failed
+2022-07-25 16:10:07,877 [main] INFO eCares - Login Test Failed
+2022-07-25 16:10:20,530 [main] INFO eCares - Login Test Failed
+2022-07-30 15:49:32,969 [main] INFO eCares - Username is entered
+2022-07-30 15:49:33,070 [main] INFO eCares - Password is entered
+2022-07-30 15:50:06,534 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-07-30 15:50:06,535 [main] INFO eCares - Login Successful
+2022-07-30 15:50:06,535 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-07-30 15:50:07,222 [main] INFO eCares - Login Test Passed
+2022-07-30 15:56:31,647 [main] INFO eCares - Username is entered
+2022-07-30 15:56:31,743 [main] INFO eCares - Password is entered
+2022-07-30 15:57:03,275 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-07-30 15:57:03,275 [main] INFO eCares - Login Successful
+2022-07-30 15:57:03,275 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-07-30 15:57:03,916 [main] INFO eCares - Login Test Passed
+2022-08-18 14:23:25,830 [main] INFO eCares - Username is entered
+2022-08-18 14:23:25,990 [main] INFO eCares - Password is entered
+2022-08-18 14:23:40,583 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-18 14:23:40,583 [main] INFO eCares - Login Successful
+2022-08-18 14:23:40,584 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-08-18 14:23:41,442 [main] INFO eCares - Login Test Passed
+2022-08-23 13:13:40,908 [main] INFO eCares - Username is entered
+2022-08-23 13:13:41,010 [main] INFO eCares - Password is entered
+2022-08-23 13:14:30,656 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-23 13:14:30,657 [main] INFO eCares - Login Successful
+2022-08-23 13:14:30,657 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-08-23 13:14:31,387 [main] INFO eCares - Login Test Passed
+2022-08-23 13:15:32,052 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-08-23 13:15:49,390 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-08-23 13:15:54,570 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-08-24 11:50:35,780 [main] INFO eCares - Username is entered
+2022-08-24 11:50:35,932 [main] INFO eCares - Password is entered
+2022-08-24 11:51:25,598 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-24 11:51:25,599 [main] INFO eCares - Login Successful
+2022-08-24 11:51:25,600 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-08-24 11:51:26,425 [main] INFO eCares - Login Test Passed
+2022-08-24 11:52:33,870 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-08-24 11:53:05,588 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-08-24 11:53:23,460 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-08-24 11:53:33,115 [main] INFO eCares - CCM Dashboard page successfully validated
+2022-08-24 11:55:20,831 [main] INFO eCares - Username is entered
+2022-08-24 11:55:20,993 [main] INFO eCares - Password is entered
+2022-08-24 11:55:31,306 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-24 11:55:31,306 [main] INFO eCares - Login Successful
+2022-08-24 11:55:31,306 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-08-24 12:44:15,528 [main] INFO eCares - Username is entered
+2022-08-24 12:44:15,641 [main] INFO eCares - Password is entered
+2022-08-24 12:44:48,667 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-24 12:44:48,668 [main] INFO eCares - Login Successful
+2022-08-24 12:44:48,668 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-08-24 12:44:49,372 [main] INFO eCares - Login Test Passed
+2022-08-24 12:45:54,591 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-08-24 12:46:04,576 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-08-24 12:46:08,464 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-08-24 12:46:15,201 [main] INFO eCares - CCM Dashboard page successfully validated
+2022-08-24 13:26:11,439 [main] INFO eCares - Username is entered
+2022-08-24 13:26:11,538 [main] INFO eCares - Password is entered
+2022-08-24 13:26:47,868 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-24 13:26:47,869 [main] INFO eCares - Login Successful
+2022-08-24 13:26:47,869 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-08-24 13:26:48,592 [main] INFO eCares - Login Test Passed
+2022-08-24 13:27:46,069 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-08-24 13:27:56,445 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-08-24 13:28:01,716 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-08-24 13:28:09,057 [main] INFO eCares - CCM Dashboard page successfully validated
