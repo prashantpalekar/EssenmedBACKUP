@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [Essen]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.essen.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" parallel="methods" name="eCares(failed)">
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.essen.testCases.Testing">
+      <class name="com.essen.testCases.TC_SSRSChecker">
         <methods>
-          <include name="test"/>
+          <include name="DuplicateChartMenu_PgChecker"/>
           <include name="teardown"/>
+          <include name="PatientList_Exceptions_PgChecker"/>
+          <include name="KioskCheckInsReport_PgChecker"/>
+          <include name="WowReport_PgChecker"/>
           <include name="setup"/>
+          <include name="NoShowBookedAppointmentsReport_PgChecker"/>
         </methods>
-      </class> <!-- com.essen.testCases.Testing -->
+      </class> <!-- com.essen.testCases.TC_SSRSChecker -->
+      <class name="com.essen.testCases.TC_PowerBIChecker">
+        <methods>
+          <include name="teardown"/>
+          <include name="FacilityPanelDashboard"/>
+          <include name="CCMDashboard"/>
+          <include name="ProviderPanelDashboard"/>
+          <include name="setup"/>
+          <include name="PostAcuteCareDashboard"/>
+        </methods>
+      </class> <!-- com.essen.testCases.TC_PowerBIChecker -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- eCares(failed) -->
+</suite> <!-- Failed suite [Essen] -->

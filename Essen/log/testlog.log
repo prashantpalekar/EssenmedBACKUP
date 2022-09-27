@@ -179,3 +179,46 @@
 2022-08-24 13:27:56,445 - eCares -INFO - Facility Panel Dashboard page successfully validated
 2022-08-24 13:28:01,716 - eCares -INFO - Post Acute Care Dashboard page successfully validated
 2022-08-24 13:28:09,057 - eCares -INFO - CCM Dashboard page successfully validated
+2022-08-25 12:49:17,380 - eCares -INFO - Username is entered
+2022-08-25 12:49:17,470 - eCares -INFO - Password is entered
+2022-08-25 12:49:41,875 - eCares -INFO - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-25 12:49:41,876 - eCares -INFO - Login Successful
+2022-08-25 12:49:41,877 - eCares -INFO - URL is Accessed with the defined Browser
+2022-09-02 13:51:14,869 - eCares -INFO - Kiosk Check ins report has been verified
+2022-09-05 19:12:11,989 - eCares -INFO - Kiosk Check ins report has been verified
+2022-09-05 19:12:22,259 - eCares -INFO - Wow Report has been verified
+2022-09-05 19:12:27,830 - eCares -INFO - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:12:43,348 - eCares -INFO - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:13:10,308 - eCares -INFO - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:14:02,735 - eCares -INFO - Facility Panel Dashboard page successfully validated
+2022-09-05 19:14:11,741 - eCares -INFO - Post Acute Care Dashboard page successfully validated
+2022-09-05 19:17:36,620 - eCares -INFO - Kiosk Check ins report has been verified
+2022-09-05 19:17:46,465 - eCares -INFO - Wow Report has been verified
+2022-09-05 19:17:53,191 - eCares -INFO - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:18:10,420 - eCares -INFO - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:18:21,051 - eCares -INFO - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:19:08,739 - eCares -INFO - Facility Panel Dashboard page successfully validated
+2022-09-05 19:20:53,817 - eCares -INFO - Kiosk Check ins report has been verified
+2022-09-05 19:21:04,524 - eCares -INFO - Wow Report has been verified
+2022-09-05 19:22:55,776 - eCares -INFO - Kiosk Check ins report has been verified
+2022-09-05 19:23:04,715 - eCares -INFO - Wow Report has been verified
+2022-09-05 19:23:09,965 - eCares -INFO - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:23:26,690 - eCares -INFO - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:23:36,750 - eCares -INFO - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:24:36,867 - eCares -INFO - Facility Panel Dashboard page successfully validated
+2022-09-05 19:24:44,608 - eCares -INFO - Post Acute Care Dashboard page successfully validated
+2022-09-05 19:56:29,719 - eCares -INFO - Kiosk Check ins report has been verified
+2022-09-05 19:56:38,289 - eCares -INFO - Wow Report has been verified
+2022-09-05 19:56:43,505 - eCares -INFO - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:56:58,391 - eCares -INFO - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:57:08,474 - eCares -INFO - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:58:04,811 - eCares -INFO - Facility Panel Dashboard page successfully validated
+2022-09-05 19:58:12,238 - eCares -INFO - Post Acute Care Dashboard page successfully validated
+2022-09-05 20:02:23,571 - eCares -INFO - Kiosk Check ins report has been verified
+2022-09-05 20:02:33,442 - eCares -INFO - Wow Report has been verified
+2022-09-05 20:02:38,924 - eCares -INFO - No Show Booked Appointments Report has been validated successfully
+2022-09-05 20:02:55,652 - eCares -INFO - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 20:03:06,748 - eCares -INFO - Passed! Duplicate Chart report validated successfully
+2022-09-05 20:03:23,478 - eCares -INFO - Login Successful
+2022-09-05 20:03:33,524 - eCares -INFO - Providing Users Details
+2022-09-05 20:03:43,297 - eCares -INFO - Test Case Passed

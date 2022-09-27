@@ -179,3 +179,46 @@
 2022-08-24 13:27:56,445 [main] INFO eCares - Facility Panel Dashboard page successfully validated
 2022-08-24 13:28:01,716 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
 2022-08-24 13:28:09,057 [main] INFO eCares - CCM Dashboard page successfully validated
+2022-08-25 12:49:17,380 [main] INFO eCares - Username is entered
+2022-08-25 12:49:17,470 [main] INFO eCares - Password is entered
+2022-08-25 12:49:41,875 [main] INFO eCares - Clicked on Sign In after entering Username (aditya905) and Password (Pass$123)
+2022-08-25 12:49:41,876 [main] INFO eCares - Login Successful
+2022-08-25 12:49:41,877 [main] INFO eCares - URL is Accessed with the defined Browser
+2022-09-02 13:51:14,869 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-09-05 19:12:11,989 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-09-05 19:12:22,259 [main] INFO eCares - Wow Report has been verified
+2022-09-05 19:12:27,830 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:12:43,348 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:13:10,308 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:14:02,735 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-09-05 19:14:11,741 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-09-05 19:17:36,620 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-09-05 19:17:46,465 [main] INFO eCares - Wow Report has been verified
+2022-09-05 19:17:53,191 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:18:10,420 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:18:21,051 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:19:08,739 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-09-05 19:20:53,817 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-09-05 19:21:04,524 [main] INFO eCares - Wow Report has been verified
+2022-09-05 19:22:55,776 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-09-05 19:23:04,715 [main] INFO eCares - Wow Report has been verified
+2022-09-05 19:23:09,965 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:23:26,690 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:23:36,750 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:24:36,867 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-09-05 19:24:44,608 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-09-05 19:56:29,719 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-09-05 19:56:38,289 [main] INFO eCares - Wow Report has been verified
+2022-09-05 19:56:43,505 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-09-05 19:56:58,391 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 19:57:08,474 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-09-05 19:58:04,811 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-09-05 19:58:12,238 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-09-05 20:02:23,571 [main] INFO eCares - Kiosk Check ins report has been verified
+2022-09-05 20:02:33,442 [main] INFO eCares - Wow Report has been verified
+2022-09-05 20:02:38,924 [main] INFO eCares - No Show Booked Appointments Report has been validated successfully
+2022-09-05 20:02:55,652 [main] INFO eCares - Passed! PatientList Exceptions has been validated successfully
+2022-09-05 20:03:06,748 [main] INFO eCares - Passed! Duplicate Chart report validated successfully
+2022-09-05 20:03:23,478 [main] INFO eCares - Login Successful
+2022-09-05 20:03:33,524 [main] INFO eCares - Providing Users Details
+2022-09-05 20:03:43,297 [main] INFO eCares - Test Case Passed

@@ -4,35 +4,30 @@
   <listeners>
     <listener class-name="com.essen.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="eCares(failed)">
+  <test thread-count="5" parallel="methods" name="eCares(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.essen.testCases.TC_PageChecker_005">
+      <class name="com.essen.testCases.TC_SSRSChecker">
         <methods>
-          <include name="consent_DCEAllPatients"/>
-          <include name="HH_EligiblePatients"/>
-          <include name="CCMAllPatients"/>
+          <include name="DuplicateChartMenu_PgChecker"/>
           <include name="teardown"/>
-          <include name="medicalopenenrollpagechecker"/>
-          <include name="RhioConsent"/>
+          <include name="PatientList_Exceptions_PgChecker"/>
+          <include name="KioskCheckInsReport_PgChecker"/>
+          <include name="WowReport_PgChecker"/>
           <include name="setup"/>
-          <include name="myworklistpagechecker"/>
+          <include name="NoShowBookedAppointmentsReport_PgChecker"/>
         </methods>
-      </class> <!-- com.essen.testCases.TC_PageChecker_005 -->
-      <class name="com.essen.testCases.TC_TOCHospitalization_004">
-        <methods>
-          <include name="teardown"/>
-          <include name="setup"/>
-          <include name="TOCTest"/>
-        </methods>
-      </class> <!-- com.essen.testCases.TC_TOCHospitalization_004 -->
-      <class name="com.essen.testCases.TC_LoginTestDDT_002">
+      </class> <!-- com.essen.testCases.TC_SSRSChecker -->
+      <class name="com.essen.testCases.TC_PowerBIChecker">
         <methods>
           <include name="teardown"/>
+          <include name="FacilityPanelDashboard"/>
+          <include name="CCMDashboard"/>
+          <include name="ProviderPanelDashboard"/>
           <include name="setup"/>
-          <include name="LoginTestDDT" invocation-numbers="0 1 2"/>
+          <include name="PostAcuteCareDashboard"/>
         </methods>
-      </class> <!-- com.essen.testCases.TC_LoginTestDDT_002 -->
+      </class> <!-- com.essen.testCases.TC_PowerBIChecker -->
     </classes>
   </test> <!-- eCares(failed) -->
 </suite> <!-- Failed suite [Essen] -->

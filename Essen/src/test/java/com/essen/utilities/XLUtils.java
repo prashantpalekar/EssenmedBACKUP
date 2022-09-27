@@ -15,7 +15,7 @@ public class XLUtils {
 	public static FileInputStream fi;
 	public static FileOutputStream fo;
 	public static XSSFWorkbook wb;
-	public static XSSFSheet ws;
+	public static XSSFSheet sheet;
 	public static XSSFRow row;
 	public static XSSFCell cell;
 
@@ -25,8 +25,8 @@ public class XLUtils {
 	{
 		fi=new FileInputStream(xlfile);
 		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		int rowcount=ws.getLastRowNum();
+		sheet=wb.getSheet(xlsheet);
+		int rowcount=sheet.getLastRowNum();
 		wb.close();
 		fi.close();
 		return rowcount;		
@@ -37,8 +37,8 @@ public class XLUtils {
 	{
 		fi=new FileInputStream(xlfile);
 		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		row=ws.getRow(rownum);
+		sheet=wb.getSheet(xlsheet);
+		row=sheet.getRow(rownum);
 		int cellcount=row.getLastCellNum();
 		wb.close();
 		fi.close();
@@ -50,8 +50,8 @@ public class XLUtils {
 	{
 		fi=new FileInputStream(xlfile);
 		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		row=ws.getRow(rownum);
+		sheet=wb.getSheet(xlsheet);
+		row=sheet.getRow(rownum);
 		cell=row.getCell(colnum);
 		String data;
 		try 
@@ -73,8 +73,8 @@ public class XLUtils {
 	{
 		fi=new FileInputStream(xlfile);
 		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		row=ws.getRow(rownum);
+		sheet=wb.getSheet(xlsheet);
+		row=sheet.getRow(rownum);
 		cell=row.createCell(colnum);
 		cell.setCellValue(data);
 		fo=new FileOutputStream(xlfile);
